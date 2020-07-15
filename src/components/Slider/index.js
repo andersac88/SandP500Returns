@@ -1,12 +1,11 @@
 import React from "react";
 import Slider from "rc-slider";
 import "rc-slider/assets/index.css";
-import 'rc-tooltip/assets/bootstrap.css';
-import "./style.css"
+import "rc-tooltip/assets/bootstrap.css";
+import "./style.css";
 
 const { createSliderWithTooltip } = Slider;
 const Range = createSliderWithTooltip(Slider.Range);
-
 
 const marks = {
 	0: {
@@ -34,7 +33,7 @@ export default (props) => (
 			min={0}
 			max={94}
 			step={1}
-			tipFormatter={value => `${1926 + value}`}
+			tipFormatter={(value) => `${1926 + value}`}
 		/>
 	</div>
 );

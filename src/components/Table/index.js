@@ -1,6 +1,6 @@
 import React from "react";
 import TableItem from "../TableItem/";
-import "./style.css"
+import "./style.css";
 
 const Table = ({ data, value }) => {
 	const ascendingData = data.slice(value[0], value[1]);
