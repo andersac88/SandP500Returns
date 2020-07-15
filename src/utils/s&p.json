@@ -1,0 +1,382 @@
+[
+	{
+		"year": 2020,
+		"total_return": -0.38
+	},
+	{
+		"year": 2019,
+		"total_return": 31.49
+	},
+	{
+		"year": 2018,
+		"total_return": -4.38
+	},
+	{
+		"year": 2017,
+		"total_return": 21.83
+	},
+	{
+		"year": 2016,
+		"total_return": 11.96
+	},
+	{
+		"year": 2015,
+		"total_return": 1.38
+	},
+	{
+		"year": 2014,
+		"total_return": 13.69
+	},
+	{
+		"year": 2013,
+		"total_return": 32.39
+	},
+	{
+		"year": 2012,
+		"total_return": 16.0
+	},
+	{
+		"year": 2011,
+		"total_return": 2.11
+	},
+	{
+		"year": 2010,
+		"total_return": 15.06
+	},
+	{
+		"year": 2009,
+		"total_return": 26.46
+	},
+	{
+		"year": 2008,
+		"total_return": -37.0
+	},
+	{
+		"year": 2007,
+		"total_return": 5.49
+	},
+	{
+		"year": 2006,
+		"total_return": 15.79
+	},
+	{
+		"year": 2005,
+		"total_return": 4.91
+	},
+	{
+		"year": 2004,
+		"total_return": 10.88
+	},
+	{
+		"year": 2003,
+		"total_return": 28.68
+	},
+	{
+		"year": 2002,
+		"total_return": -22.1
+	},
+	{
+		"year": 2001,
+		"total_return": -11.89
+	},
+	{
+		"year": 2000,
+		"total_return": -9.1
+	},
+	{
+		"year": 1999,
+		"total_return": 21.04
+	},
+	{
+		"year": 1998,
+		"total_return": 28.58
+	},
+	{
+		"year": 1997,
+		"total_return": 33.36
+	},
+	{
+		"year": 1996,
+		"total_return": 22.96
+	},
+	{
+		"year": 1995,
+		"total_return": 37.58
+	},
+	{
+		"year": 1994,
+		"total_return": 1.32
+	},
+	{
+		"year": 1993,
+		"total_return": 10.08
+	},
+	{
+		"year": 1992,
+		"total_return": 7.62
+	},
+	{
+		"year": 1991,
+		"total_return": 30.47
+	},
+	{
+		"year": 1990,
+		"total_return": -3.1
+	},
+	{
+		"year": 1989,
+		"total_return": 31.69
+	},
+	{
+		"year": 1988,
+		"total_return": 16.61
+	},
+	{
+		"year": 1987,
+		"total_return": 5.25
+	},
+	{
+		"year": 1986,
+		"total_return": 18.67
+	},
+	{
+		"year": 1985,
+		"total_return": 31.73
+	},
+	{
+		"year": 1984,
+		"total_return": 6.27
+	},
+	{
+		"year": 1983,
+		"total_return": 22.56
+	},
+	{
+		"year": 1982,
+		"total_return": 21.55
+	},
+	{
+		"year": 1981,
+		"total_return": -4.91
+	},
+	{
+		"year": 1980,
+		"total_return": 32.42
+	},
+	{
+		"year": 1979,
+		"total_return": 18.44
+	},
+	{
+		"year": 1978,
+		"total_return": 6.56
+	},
+	{
+		"year": 1977,
+		"total_return": -7.18
+	},
+	{
+		"year": 1976,
+		"total_return": 23.84
+	},
+	{
+		"year": 1975,
+		"total_return": 37.2
+	},
+	{
+		"year": 1974,
+		"total_return": -26.47
+	},
+	{
+		"year": 1973,
+		"total_return": -14.66
+	},
+	{
+		"year": 1972,
+		"total_return": 18.98
+	},
+	{
+		"year": 1971,
+		"total_return": 14.31
+	},
+	{
+		"year": 1970,
+		"total_return": 4.01
+	},
+	{
+		"year": 1969,
+		"total_return": -8.5
+	},
+	{
+		"year": 1968,
+		"total_return": 11.06
+	},
+	{
+		"year": 1967,
+		"total_return": 23.98
+	},
+	{
+		"year": 1966,
+		"total_return": -10.06
+	},
+	{
+		"year": 1965,
+		"total_return": 12.45
+	},
+	{
+		"year": 1964,
+		"total_return": 16.48
+	},
+	{
+		"year": 1963,
+		"total_return": 22.8
+	},
+	{
+		"year": 1962,
+		"total_return": -8.73
+	},
+	{
+		"year": 1961,
+		"total_return": 26.89
+	},
+	{
+		"year": 1960,
+		"total_return": 0.47
+	},
+	{
+		"year": 1959,
+		"total_return": 11.96
+	},
+	{
+		"year": 1958,
+		"total_return": 43.36
+	},
+	{
+		"year": 1957,
+		"total_return": -10.78
+	},
+	{
+		"year": 1956,
+		"total_return": 6.56
+	},
+	{
+		"year": 1955,
+		"total_return": 31.56
+	},
+	{
+		"year": 1954,
+		"total_return": 52.62
+	},
+	{
+		"year": 1953,
+		"total_return": -0.99
+	},
+	{
+		"year": 1952,
+		"total_return": 18.37
+	},
+	{
+		"year": 1951,
+		"total_return": 24.02
+	},
+	{
+		"year": 1950,
+		"total_return": 31.71
+	},
+	{
+		"year": 1949,
+		"total_return": 18.79
+	},
+	{
+		"year": 1948,
+		"total_return": 5.5
+	},
+	{
+		"year": 1947,
+		"total_return": 5.71
+	},
+	{
+		"year": 1946,
+		"total_return": -8.07
+	},
+	{
+		"year": 1945,
+		"total_return": 36.44
+	},
+	{
+		"year": 1944,
+		"total_return": 19.75
+	},
+	{
+		"year": 1943,
+		"total_return": 25.9
+	},
+	{
+		"year": 1942,
+		"total_return": 20.34
+	},
+	{
+		"year": 1941,
+		"total_return": -11.59
+	},
+	{
+		"year": 1940,
+		"total_return": -9.78
+	},
+	{
+		"year": 1939,
+		"total_return": -0.41
+	},
+	{
+		"year": 1938,
+		"total_return": 31.12
+	},
+	{
+		"year": 1937,
+		"total_return": -35.03
+	},
+	{
+		"year": 1936,
+		"total_return": 33.92
+	},
+	{
+		"year": 1935,
+		"total_return": 47.67
+	},
+	{
+		"year": 1934,
+		"total_return": -1.44
+	},
+	{
+		"year": 1933,
+		"total_return": 53.99
+	},
+	{
+		"year": 1932,
+		"total_return": -8.19
+	},
+	{
+		"year": 1931,
+		"total_return": -43.34
+	},
+	{
+		"year": 1930,
+		"total_return": -24.9
+	},
+	{
+		"year": 1929,
+		"total_return": -8.42
+	},
+	{
+		"year": 1928,
+		"total_return": 43.61
+	},
+	{
+		"year": 1927,
+		"total_return": 37.49
+	},
+	{
+		"year": 1926,
+		"total_return": 11.62
+	}
+]

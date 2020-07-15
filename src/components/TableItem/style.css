@@ -1,0 +1,15 @@
+tr {
+    border-top: 1px solid #dee2e6;
+}
+
+th {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: .5em;
+    padding-top: .5em;
+    font-weight: 300;
+}
+
+#returns {
+    text-align: left;
+}

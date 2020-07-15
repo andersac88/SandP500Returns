@@ -1,0 +1,13 @@
+#slider {
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
